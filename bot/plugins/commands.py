@@ -120,7 +120,6 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('⭕️Creater', url=f'https://t.me/{MRK_YT_MASTER}'),
-        InlineKeyboardButton('Repo Editor 🦋', url='t.me/Jinn_007')
         InlineKeyboardButton('Hi Gays 🥰', callback_data="help")
     ],[
         InlineKeyboardButton('🔥Group', url=f'{MT_GROUP}'),
