@@ -76,9 +76,13 @@ async def start(bot, update):
             )
 
         elif file_type == "video":
-        
-             await cmd.reply_photo(photo='https://telegra.ph/file/0db49a8d01654aa4b7525.jpg', caption=START_MSG.format(cmd.from_user.mention),
-                reply_markup=InlineKeyboardMarkup(
+       
+              await update.bot.send_video(
+                chat_id=update.chat.id,
+                video = file_id,
+                caption = caption,
+                parse_mode="html",
+              reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
