@@ -62,13 +62,13 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔥Join Main Channel🔥', url=f"{MT_CHANNEL}"
+                                    '⚪️Join Main Channel⚪️', url=f"{MT_CHANNEL}"
                                 )
                         ],
                         [
                             InlineKeyboardButton
                                 (
-                                    '😈 JOIN MY GROOP 2.0 😈', url=f"{MT_BOT_UPDATES}"
+                                    '💣 JOIN MY GROOP 2.0 💣', url=f"{MT_BOT_UPDATES}"
                                 )
                         ]
                     ]
@@ -119,13 +119,13 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('⭕️Creater', url=f'https://t.me/{MRK_YT_MASTER}'),
-        InlineKeyboardButton('Hi Gays 🥰', callback_data="help")
+        InlineKeyboardButton('🔴Creater', url=f'https://t.me/{MRK_YT_MASTER}'),
+        InlineKeyboardButton('Hi Gays 💠', callback_data="help")
     ],[
-        InlineKeyboardButton('🔥Group', url=f'{MT_GROUP}'),
-        InlineKeyboardButton('Channel📒', url=f'{MT_CHANNEL}')
+        InlineKeyboardButton('🔷Group', url=f'{MT_GROUP}'),
+        InlineKeyboardButton('Channel🟠', url=f'{MT_CHANNEL}')
     ],[
-        InlineKeyboardButton('🎃 JOIN MY GROOP 🎃', url='https://t.me/ADMOVEIAD')
+        InlineKeyboardButton('🌟 JOIN MY GROOP 🌟', url='https://t.me/ADMOVEIAD')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
