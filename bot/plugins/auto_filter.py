@@ -209,7 +209,7 @@ async def auto_filter(bot, update):
             await bot.send_photo(
                 chat_id = update.chat.id,
                 photo= MASSAGE_PHOTO,
-                caption=f"<b>😎താങ്കൾക്ക് കിട്ടിയ ഈ ഫിൽറ്റർ മെസ്സേജ് കാലാവധി വെറും 3 മിനിറ്റ് മാത്രം😎 ©️ADMOVEIAD :- {(len_results)} </b>\n<b>🌟Movie Name🌟 :-</b> <code>{query}</code>",
+                caption=f"<b>😎താങ്കൾക്ക് കിട്ടിയ ഈ ഫിൽറ്റർ മെസ്സേജ് കാലാവധി വെറും 3 മിനിറ്റ് മാത്രം😎 ©️ @ADMOVEIAD :- {(len_results)} </b>\n<b>🌟Movie Name🌟 :-</b> <code>{query}</code>",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_message_id=update.message_id
