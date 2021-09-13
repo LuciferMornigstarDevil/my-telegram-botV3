@@ -13,7 +13,7 @@ class Translation(object):
 @Lucifer_Devil_AD ആണ് എന്റെ
 മുതലാളി. 🤭
 <b>😎വേറെ പണിയൊന്നുമില്ലേ വെറുതെ Bot ഇനെ Start അടിച്ച് സമയം കളയാതെ <a href="https://telegra.ph/file/0db49a8d01654aa4b7525.jpg">😎</a></b>"""    
-</i>"""
+
 
    
     
@@ -26,11 +26,11 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ My Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ 🔥My Creator</b> : <b><i><a href="https://t.me/Lucifer_Devil_AD">Rafeeq_Kunnimon</a></i></b>
+<b>➥ My Creator</b> : <b><i><a href="https://t.me/Lucifer_Devil_AD">Rafeeq_Kunnimon</a></i></b>
 
-<b>➥ 🔥My Language</b> : <code>Python3</code>
+<b>➥ My Language</b> : <code>Python3</code>
 
-<b>➥ 🔥My Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ My Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ 🔥Source Code</b> : <i><a href="https://telegra.ph/file/65b78cec444fb1fd0dadc.jpg">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://telegra.ph/file/65b78cec444fb1fd0dadc.jpg">Click Me</a></i>
 """
