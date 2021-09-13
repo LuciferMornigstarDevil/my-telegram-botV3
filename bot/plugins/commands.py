@@ -67,8 +67,7 @@ Join on our channel to get movies ✅
                         ],
                         [
                             InlineKeyboardButton
-                                (
-                                    '🧩 Share Group 🧩', url="https://t.me/share/url?url=https://t.me/ADMOVEI"
+                                 (
                                 )
                         ],
                         [
@@ -104,7 +103,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    '🧩 Share Group 🧩', url="https://t.me/share/url?url=https://t.me/ADMOVEIAD"
+              
                                 )
                         ],
                         [
@@ -140,7 +139,6 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    '🧩 Share Group 🧩', url="https://t.me/share/url?url=https://t.me/ADMOVEIAD
                                 )
                         ],
                         [
