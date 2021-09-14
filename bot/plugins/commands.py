@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕️ JOIN GROOP ⭕️', url=f"{ADMOVEIAD}"
+                                    '⭕️ JOIN GROOP ⭕️', url=f"ADMOVEIAD"
                                 )
                         ]
                     ]
